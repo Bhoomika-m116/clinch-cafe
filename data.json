@@ -1,0 +1,121 @@
+{
+    "menu": [
+        {
+            "name": "Coffee",
+            "price": 70
+        },
+        {
+            "name": "Tea",
+            "price": 30
+        },
+        {
+            "name": "Burger",
+            "price": 100
+        },
+        {
+            "name": "Pizza",
+            "price": 120
+        },
+        {
+            "name": "Cake",
+            "price": 80
+        }
+    ],
+    "offer": "30% OFF on all coffee",
+    "birthday": "Birthday celebration packages available!",
+    "birthday_packages": [
+        {
+            "name": "Basic Birthday Package",
+            "price": 999,
+            "description": "Balloons, cake and simple table decoration."
+        },
+        {
+            "name": "Premium Birthday Package",
+            "price": 1999,
+            "description": "Balloons, cake, full decoration and snacks."
+        },
+        {
+            "name": "Royal Birthday Package",
+            "price": 2999,
+            "description": "Premium decoration, cake, snacks and photography."
+        }
+    ],
+    "bookings": [
+        {
+            "customer_name": "bhoomika",
+            "phone": "8105163204",
+            "date": "2026-08-12",
+            "package": "Basic Birthday Package",
+            "price": 999,
+            "guests": 10,
+            "requirements": "",
+            "status": "Pending"
+        }
+    ],
+    "orders": [
+        {
+            "customer_name": "bhoomika",
+            "phone": "",
+            "order_type": "Dine In",
+            "table": "1",
+            "address": "",
+            "items": [
+                {
+                    "name": "Coffee",
+                    "price": 70,
+                    "quantity": 1,
+                    "total": 70
+                }
+            ],
+            "total": 70,
+            "special_note": "",
+            "status": "Pending"
+        },
+        {
+            "customer_name": "bjhhb",
+            "phone": "",
+            "order_type": "Dine In",
+            "table": "1",
+            "address": "",
+            "items": [
+                {
+                    "name": "Coffee",
+                    "price": 70,
+                    "quantity": 1,
+                    "total": 70
+                }
+            ],
+            "total": 70,
+            "special_note": "",
+            "status": "Pending"
+        },
+        {
+            "customer_name": "jjjg",
+            "phone": "",
+            "order_type": "Dine In",
+            "table": "1",
+            "address": "",
+            "items": [
+                {
+                    "name": "Coffee",
+                    "price": 70,
+                    "quantity": 1,
+                    "total": 70
+                }
+            ],
+            "total": 70,
+            "special_note": "",
+            "status": "Pending"
+        }
+    ],
+    "settings": {
+        "cafe_name": "Clinch Cafe",
+        "whatsapp_number": "919632123356",
+        "admin_password": "cafe123"
+    },
+    "contact": {
+        "phone": "7676750200",
+        "address": "Bangalore",
+        "email": "clinchcafe@gmail.com"
+    }
+}
